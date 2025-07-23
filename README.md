@@ -30,6 +30,8 @@ dotnet nuget add source \
 
 Replace placeholders appropriately.
 
+For more information on authenticating with the github package registry, click [here](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-nuget-registry#installing-a-package).
+
 ## 3. Add `LensIsland.GameLibs` as a Dependency
 
 You should now be able to add the NuGet package as a dependency in your project, either by running the following command:
